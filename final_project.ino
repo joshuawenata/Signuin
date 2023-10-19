@@ -4,8 +4,8 @@
 
 #define WIFI_SSID "oppo"
 #define WIFI_PASSWORD "23maret2003"
-#define FIREBASE_HOST "your-firebase-project-id.firebaseio.com"  // Your Firebase database URL
-#define FIREBASE_AUTH "your-firebase-api-key"  // Your Firebase API key
+#define FIREBASE_HOST "https://signuin-c2fc2-default-rtdb.firebaseio.com"  // Your Firebase database URL
+#define FIREBASE_AUTH "AIzaSyDW1G3KsmfWLAp0Nn9ZYi6e2C9qTLWwm_E"  // Your Firebase API key
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);  // I2C address and LCD dimensions
 
